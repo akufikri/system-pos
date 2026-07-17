@@ -1,8 +1,12 @@
-.tombol-bayar {
+button {
     background-color: green;
     color: white;
     padding: 10px;
     border: 1px black solid;
+}
+
+.contoh-margin{
+    margin: 20px; /* jarak ke luar kotak */
 }
 
 .card-product{
