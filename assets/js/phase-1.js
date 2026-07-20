@@ -34,13 +34,15 @@
 // let exampleBoolean2 = false; // false
 
 // 4. array
-// let cartProduct = [
-//   { name: "Kopi susu", qty: 2, price: 18000, status: true }, // 0
-//   { name: "Kopi gula aren", qty: 0, price: 28000, status: false }, // 1
-//   { name: "Kopi gula aren 2", qty: 0, price: 28000, status: false }, // 2
-// ];
+let cartProduct = [
+  { name: "Kopi susu", qty: 2, price: 18000, status: true }, // 0
+  { name: "Kopi gula aren", qty: 0, price: 28000, status: false }, // 1
+  { name: "Kopi gula aren 2", qty: 0, price: 28000, status: false }, // 2
+];
 
 // 5. object
-// let productItem = {
-//   "example 1": { id: "PROD-001", name: "Kopi susu gula aren", price: 25000 },
-// };
+let productItem = {
+  "example_1": { id: "PROD-001", name: "Kopi susu gula aren", price: 25000 },
+  "example_2": { id: "PROD-002", name: "Kopi susu gula jawa", price: 15000 },
+};
+
